@@ -69,4 +69,8 @@ O número digitado é ímpar e a premiação foi para números pares.”.
 # Rodando
 
 
-![Captura de tela 2024-04-14 100031](https://github.com/gabrielmenezesr/lotofacilGUIaula/assets/163942114/60761a5f-c67c-4b24-b2d2-60316163d822)
+![Captura de tela 2024-04-14 095945](https://github.com/gabrielmenezesr/lotofacilGUIaula/assets/163942114/c6d6e12c-6d98-44ef-af3e-55448b3b8718)
+
+![Captura de tela 2024-04-14 095956](https://github.com/gabrielmenezesr/lotofacilGUIaula/assets/163942114/7d407dae-d770-4894-9d2e-15538cc69628)
+
+
