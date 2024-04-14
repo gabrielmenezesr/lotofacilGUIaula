@@ -65,3 +65,8 @@ premiar jogadores que digitarem um número ímpar.
 **•** Se o número digitado for par, imprima a mensagem: “Você ganhou R$ 100,00
 reais.”. Caso o usuário digite um número ímpar, imprima a mensagem: “Que pena!
 O número digitado é ímpar e a premiação foi para números pares.”.
+
+# Rodando
+
+
+![Captura de tela 2024-04-14 100031](https://github.com/gabrielmenezesr/lotofacilGUIaula/assets/163942114/60761a5f-c67c-4b24-b2d2-60316163d822)
