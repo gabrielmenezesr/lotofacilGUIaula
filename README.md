@@ -81,6 +81,8 @@ O número digitado é ímpar e a premiação foi para números pares.”.
 
 ![Captura de tela 2024-04-14 100031](https://github.com/gabrielmenezesr/lotofacilGUIaula/assets/163942114/4ab7eb24-f3a6-4f71-8652-f5c4c6ff5dc6)
 
+![Captura de tela 2024-04-14 100350](https://github.com/gabrielmenezesr/lotofacilGUIaula/assets/163942114/04b5c86a-1a8f-405d-a4a0-63c09232ec27)
+
 
 
 
