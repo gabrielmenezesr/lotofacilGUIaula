@@ -79,7 +79,7 @@ public class Main {
     private static void apostarDeAaZ() {
         char letraPremiada = 'G'; // Sempre a letra 'G' será premiada
 
-        char letraApostada = JOptionPane.showInputDialog(null, "Digite a letra 'G' para apostar:").toUpperCase().charAt(0);
+        char letraApostada = JOptionPane.showInputDialog(null, "Digite uma letra para apostar:").toUpperCase().charAt(0);
 
         if (letraApostada == 'G') {
             JOptionPane.showMessageDialog(null, "Você ganhou (PAGOU DEMAIS) R$ 500,00 reais.");
