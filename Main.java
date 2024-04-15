@@ -16,7 +16,7 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JPanel painel = new JPanel();
-        painel.setLayout(new GridLayout(0, 1, 0, 10)); // GridLayout com espaçamento vertical de 10 pixels
+        painel.setLayout(new GridLayout(0, 1, 0, 10)); // Layout com espaçamento vertical de 10 pixels
 
         JButton botao1 = new JButton("Apostar de 0 a 100");
         JButton botao2 = new JButton("Apostar de A à Z");
