@@ -75,7 +75,8 @@ O número digitado é ímpar e a premiação foi para números pares.”.
 
 ![Captura de tela 2024-04-14 100003](https://github.com/gabrielmenezesr/lotofacilGUIaula/assets/163942114/bde8dde1-5932-4399-8131-35333e506a0c)
 
-![Captura de tela 2024-04-14 100015](https://github.com/gabrielmenezesr/lotofacilGUIaula/assets/163942114/1f9de7ad-36e7-4884-8ba2-a19665d08a4b)
+![Captura de tela 2024-04-15 152014](https://github.com/gabrielmenezesr/lotofacilGUIaula/assets/163942114/645e932d-c059-4e51-b2de-9a4fea73931d)
+
 
 ![Captura de tela 2024-04-14 100021](https://github.com/gabrielmenezesr/lotofacilGUIaula/assets/163942114/1f05c55e-0af7-4f76-b140-181b137a0419)
 
